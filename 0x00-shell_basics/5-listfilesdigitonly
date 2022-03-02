@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lag [[:digit:]]*
+ls -l -a --hide *md
