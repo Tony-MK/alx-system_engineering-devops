@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## Iterate over all file names given on the command line
+for file in "./[[:digit:]]*"; do
+    ## open each file
+    sed -i "#!/bin/bash
+    " $file
+done
