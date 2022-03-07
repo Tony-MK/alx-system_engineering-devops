@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -ve /etc/passwd
+cat /etc/passwd
