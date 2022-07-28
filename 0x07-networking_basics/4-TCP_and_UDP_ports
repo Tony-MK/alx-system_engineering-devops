@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# A Bash script which displays the listening sockets and the process id using the socket
+netstat -pl
